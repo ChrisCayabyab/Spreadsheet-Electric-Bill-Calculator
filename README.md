@@ -1,6 +1,27 @@
-# BILL-SHARING-SPREADSHEET"
-![image](https://github.com/user-attachments/assets/d3f5d573-43ad-4c0c-99f9-2f2c4353cc27) <BR>
-![image](https://github.com/user-attachments/assets/26cc04bb-d2cd-4cb4-b43b-cacaf0c6e01b) <BR>
+https://github.com/user-attachments/assets/31303de5-1ea7-4671-b032-991f5c80cc9a
 
-for a copy, paste this link to your browser:
-https://docs.google.com/spreadsheets/d/11b7EaiSSg3Egi_UcEFeWZDPLFrnfszndews9g70MUdk/copy
+⚡ Dynamic Electric Bill Calculator Spreadsheet
+
+
+This Dynamic Electric Bill Calculator is designed to fairly and accurately distribute electricity costs among multiple occupants. 
+Whether you're managing expenses in a dorm, apartment, or shared house, this spreadsheet ensures transparent and hassle-free bill splitting.
+
+
+🔎 Features
+
+👥 Flexible Occupancy Management – Adjust the number of occupants from 2 to 15 people effortlessly.
+
+🏠 Daily Absence Deductions – Automatically deduct a percentage of an individual’s share for each day they are not present.
+
+❄️ Appliance Usage Calculation – Split costs for high-consumption appliances like air conditioners, whether they are used solo or shared.
+
+
+📌 Ideal For
+
+Roommates in shared living spaces
+
+Boarding houses or dormitories
+
+Family homes with varied occupancy
+
+Stay in control of your expenses with this intuitive and customizable solution! 💡
