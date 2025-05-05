@@ -1,4 +1,5 @@
 https://github.com/user-attachments/assets/31303de5-1ea7-4671-b032-991f5c80cc9a
+
 FOR A COPY OF THIS SPREADSHEET(PASTE THIS ON YOUR BROWSER): https://docs.google.com/spreadsheets/d/1FUi4fq1z133McGo9SFUEZnF_aFRZQXWrGI7kJrS5nog/copy
 ⚡ Dynamic Electric Bill Calculator Spreadsheet
 
